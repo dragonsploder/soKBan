@@ -2,7 +2,7 @@
 ![alt text](Example.png "It's fun~ish")
 
 ### Overview
-soKBan is a simple puzzle game which fits in one kilobyte (1024 bytes) of C source code
+soKBan is a simple puzzle game which fits in one kilobyte (1024 bytes) of C source code.
 It is a remake of the original [Sokoban](https://en.wikipedia.org/wiki/Sokoban) game 
 
 ### Compile
